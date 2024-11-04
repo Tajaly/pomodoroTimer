@@ -2,9 +2,7 @@ This timer is designed to help you focus for a set period, typically 25 minutes 
 
 When the button is not pressed, the dog remains asleep. 
 Once you press the button, an animation of a walking dog is displayed, along with a timer bar at the top showing how much time is left.
-
-You cant pause the timer. The only way to stop it is to pull the plug.
-
+It also shows the total number of completed sessions so far.
 
 Please note that the timer cannot be paused. The only way to stop it is by unplugging the device. 
 You can accuse me for being lazy to not build that function in, but there is a reason behind it!
