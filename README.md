@@ -14,7 +14,8 @@ or even a robot to water my plants. Or maybe even a digital plant that doesn’t
 
 This field is fascinating to explore, with various sensors, buttons, and switches that can be integrated into a microcontroller.
 
-The Raspberry Pi Pico is a compact board that doesn’t run an operating system like other Raspberry Pi models. For my first project, I used MicroPython.
+The Raspberry Pi Pico is a compact board that doesn’t run an operating system like other Raspberry Pi models. For this project, I used the programming language MicroPython. 
+I am planning on using C in the future because it has an overall better performance.
 
 ![WhatsApp Bild 2024-11-04 um 23 13 53_28f613ed](https://github.com/user-attachments/assets/02aca066-b961-4cec-8372-78d9649987b8)
 
