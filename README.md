@@ -1,4 +1,4 @@
-#Pomodoro Timer
+# Pomodoro Timer
 This timer is designed to help you focus for a set period, typically 25 minutes of concentrated work followed by a short break.
 
 When the button is not pressed, the dog remains asleep. 
@@ -9,7 +9,7 @@ Please note that the timer cannot be paused. The only way to stop it is by unplu
 You can accuse me for being lazy to not build that function in, but there is a reason behind it!
 I found that when I had a pomodoro app, I often paused the timer and that stopped me from being focused.
 
-##Raspberry Pi Pico
+## Raspberry Pi Pico
 I became very excited about microcontrollers after learning about them. You can build almost anything!
 I had countless ideas for automating tasks around my home, such as an alarm that notifies me when someone opens the mailbox, 
 or even a robot to water my plants. Or maybe even a digital plant that doesn’t need watering!
